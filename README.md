@@ -1,4 +1,4 @@
-## This is my first repository
+## Example of README.md
 
 # testing 1
 *italics*
@@ -7,5 +7,7 @@
 * bullet 
 * list
 
-(PORTARTIA WEATHER STATION) https://meteovolos.gr/portaria/
-!{Volos} (https://meteovolos.gr/portaria/webcams/portaria/Volosview.jpg)
+[PORTARTIA WEATHER STATION](https://meteovolos.gr/portaria/}
+
+![Volos}](https://meteovolos.gr/portaria/webcams/portaria/Volosview.jpg)
+
